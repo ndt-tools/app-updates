@@ -1,0 +1,23 @@
+{
+  "version": {
+    "name": "1.0.1",
+    "url": "https://github.com/test1/abcs.apk"
+  },
+  "ads": [
+    {
+      "title": "Ads for ABC1",
+      "image": "mock_image1",
+      "url": "mock_url1"
+    },
+    {
+      "title": "Ads for ABC2",
+      "image": "mock_image2",
+      "url": "mock_url2"
+    }
+  ],
+  "home": {
+    "title": "home page",
+    "image": "mock_image3",
+    "url": "mock_url3"
+  }
+}
