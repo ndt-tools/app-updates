@@ -1,0 +1,26 @@
+{
+  "version": {
+    "name": "1.0.2",
+    "url": "https://google.com"
+  },
+  "ads": {
+    "type": "carousel",
+    "items": [
+      {
+        "title": "Image 1",
+        "image": "https://placehold.co/600x400/000000/FFFFFF/png",
+        "url": "https://www.google.com/search?q=test+keyboard"
+      },
+      {
+        "title": "Image 2",
+        "image": "https://placehold.co/600x400/222222/F0F0F0.png",
+        "url": "https://www.google.com/search?q=test+mic"
+      },
+      {
+        "title": "Image 3",
+        "image": "https://placehold.co/600x400/888888/F0F0F0.png",
+        "url": "https://www.google.com/search?q=test+speaker"
+      }
+    ]
+  }
+}
