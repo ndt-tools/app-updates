@@ -1,0 +1,26 @@
+{
+  "version": {
+    "name": "1.0.2",
+    "url": "https://google.com"
+  },
+  "ads": {
+    "type": "link_list",
+    "items": [
+      {
+        "title": "Keyboard TLC mới nhất thị trường. Múc ngay!",
+        "url": "https://www.google.com/search?q=test+keyboard",
+        "icon": "HOT"
+      },
+      {
+        "title": "Mic TLC ổn áp nhất quả đất. Múc ngay!",
+        "url": "https://www.google.com/search?q=test+mic",
+        "icon": "NEW"
+      },
+      {
+        "title": "Loa TLC 20.1 âm thanh vòm chất nhất thị trường. Múc ngay!",
+        "url": "https://www.google.com/search?q=test+speaker",
+        "icon": "NEW"
+      }
+    ]
+  }
+}
